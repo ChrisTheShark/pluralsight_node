@@ -1,0 +1,14 @@
+{
+  "name": "pluralsight_node",
+  "version": "0.0.1",
+  "description": "Examples from pluralsight advanced node course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Dyer",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5"
+  }
+}
